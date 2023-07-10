@@ -2,6 +2,8 @@
 
 Para el desarrollo de este proyecto de un clasificador de tipos de carnes y el entrenamiento se detalla a continuación los pasos:
 
+Se utilizo jupyter notebook (Python).
+
 Se empieza por llamar a las librerías necesarias (tensorflow, numpy, os, matplotlib.pyplot, pathlib, sklearn, seaborn, scikit-image).
 
 Obtener la ruta del dataset.
