@@ -100,3 +100,13 @@ Support Vector Machine (SVM).- es un algoritmo de aprendizaje automático superv
 
 MATRIZ DE CONFUCIÓN
 Una matriz de confusión es una tabla que se utiliza para evaluar el rendimiento de un modelo de clasificación. Muestra la cantidad de veces que el modelo clasificó correctamente cada clase, así como la cantidad de veces que clasificó incorrectamente cada clase.
+
+CONCLUSIONES.
+
+En este proyecto de clasificación de imágenes de carne, se usó matrices de confusión para ver qué tan bien el modelo puede distinguir entre diferentes tipos de carne. Por ejemplo, si el modelo intenta clasificar imágenes de carne, la matriz de confusión mostraría cuántas imágenes de cada tipo de carne clasificó correctamente el modelo y cuántas clasificó erróneamente como otro tipo de carne.
+
+La precisión general del modelo se puede calcular dividiendo el número de predicciones correctas por el número total de predicciones.
+
+La precisión del modelo para cada clase de datos se puede calcular dividiendo el número de predicciones correctas para esa clase por el número total de predicciones para esa clase.
+
+Al analizar los resultados de una matriz de confusión, es posible identificar áreas en las que el modelo funciona correctamente y áreas en las que podría mejorarse. Esta información se puede utilizar para ajustar el modelo y mejorar su rendimiento general.
